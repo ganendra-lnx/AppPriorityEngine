@@ -2,7 +2,7 @@
 
 This module works only for the following applications and in future versions I might add some applications or games that are suitable for optimization
 
-The applications supported by this module are:
+## The applications supported by this module are:
 
 •com.mobile.legends
 
