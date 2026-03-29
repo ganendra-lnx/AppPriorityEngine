@@ -1,0 +1,14 @@
+# App Priority Engine - system tweaks
+
+# Improve responsiveness
+windowsmgr.max_events_per_sec=90
+
+# Better scrolling
+debug.hwui.renderer=skiagl
+debug.hwui.use_buffer_age=true
+
+# Reduce latency
+touch.pressure.scale=0.001
+
+# Keep system stable
+ro.kernel.android.checkjni=0
